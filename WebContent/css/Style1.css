@@ -1,0 +1,48 @@
+nav.navbar1{
+	margin-bottom:0;
+}
+
+
+nav.navbar{
+	margin-bottom:0;
+}
+
+.form-box {
+	width: 78%;
+    margin: 0 auto;
+}
+
+.form-box1 {
+	width: 40%;
+    margin: 0 auto;
+}
+
+.form-box2 {
+	width: 40%;
+    margin: 0 auto;
+}
+
+
+.new-heading {
+	text-align: center;
+}
+
+.sbtn {
+	margin: 0 auto;
+    width: 10%;
+    display: block;
+}
+.sbtn1 {
+	margin: 0 auto;
+    width: 14%;
+    display: block;
+}
+
+.table-headc
+{
+	background-color: #b7b7b7;
+}
+
+.gd {
+	display: block;
+}
